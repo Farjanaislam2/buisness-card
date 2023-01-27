@@ -1,0 +1,38 @@
+.head{
+    color: orange;
+    font-size: 40px;
+    text-align: center;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 68, 0, 0.281);
+    padding: 45px;
+    margin: 50px;
+    border-radius: 20px;
+    
+}
+
+.form-container input{
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.form-container textarea{
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+button{
+    width: 400px;
+    padding: 10px;
+    color: black;
+    background: rgba(252, 70, 4, 0.425);
+    border-radius: 10px;
+    
+}

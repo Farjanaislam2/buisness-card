@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "1",
+      "picture": "https://img.freepik.com/free-photo/young-girl-is-holding-cleaning-product-gloves-rags-basin-white-wall_1150-21780.jpg?auto=format&h=200",
+      "name": "Glass-cleaning",
+      "about": "Best Full Service Car Wash in the area because WE CARE! We use a hospital grade disinfectant cleaner.\r\n"
+    },
+    {
+      "_id": "2",
+      "picture": "https://img.freepik.com/free-photo/disinfecting-home_155003-9129.jpg?size=626&ext=jpg&ga=GA1.2.1819645791.1666648323",
+      "name": "Floor cleaning",
+      "about": "Best Full Service Car Wash in the area because WE CARE! We use a hospital grade disinfectant cleaner..\r\n"
+    },
+    {
+      "_id": "3",
+      "picture": "https://img.freepik.com/free-photo/cleaning-cleaning-equipment_1205-1692.jpg?size=626&ext=jpg&ga=GA1.2.1819645791.1666648323",
+      "name": "Carpet cleaning",
+      "about": "Best Full Service Car Wash in the area because WE CARE! We use a hospital grade disinfectant cleaner\r\n"
+    },
+    {
+      "_id": "4",
+      "picture": "https://media.istockphoto.com/id/481395168/photo/man-hoovering-seat-of-car-during-car-cleaning.jpg?s=612x612&w=0&k=20&c=9fIZRGj4uEfBRcpqWUIi9GQ2ZazgPMzOsoiMA8AqwJ8=",
+      "name": "Car cleaning",
+      "about": "Best Full Service Car Wash in the area because WE CARE! We use a hospital grade disinfectant cleaner..\r\n"
+    }
+  ]
